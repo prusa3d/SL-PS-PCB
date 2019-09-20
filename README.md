@@ -1,4 +1,4 @@
-# PRUSA SL controller board
+# PRUSA Power supply for SL1
 
 KiCad PCB layout
 ![PCB](rev.1.4.1/sl-ps-141.jpg)
